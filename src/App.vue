@@ -15,19 +15,20 @@
                 
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="https://www.youtube.com/channel/UCWCc8tO-uUl_7SJXIKJACMw?sub_confirm=1" target="_blank"><img src="resources/youtube_social_icon_red.png" height="18"/></a></li>
-                        <li><a href="https://twitter.com/KaguraMea_VoV" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18"/></a></li>
+                        <li><a href="https://t.co/gE06SdvpNX?amp=1" target="_blank"><img src="resources/youtube_social_icon_red.png" height="18"/></a></li>
+                        <li><a href="https://twitter.com/tsunomakiwatame" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18"/></a></li>
+                        <li><a href="https://space.bilibili.com/491474050" target="_blank"><img src="resources/bilibili_social_icon.png" height="18"></a></li>
                     </ul>
-                    <ul class="nav navbar-nav navbar-right">
+                    <!-- <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
                             <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{$t("lang." + currentLang)}} <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="javascript:;" @click="chlang('zh-CN')">{{$t("lang.zh-CN")}}</a></li>
-                                <!--<li><a href="javascript:;" @click="chlang('en-US')">{{$t("lang.en-US")}}</a></li>-->
+                                <li><a href="javascript:;" @click="chlang('en-US')">{{$t("lang.en-US")}}</a></li>
                                 <li><a href="javascript:;" @click="chlang('ja-JP')">{{$t("lang.ja-JP")}}</a></li>
                             </ul>
                         </li>
-                    </ul>
+                    </ul> -->
                 </div>
 
             </div>
@@ -38,11 +39,11 @@
         <footer class="footer">
             <div class="container-fluid footer-content">
                 <div class="pull-right">
-                    <div class="text-right"><a href="https://github.com/zyzsdy/meamea-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/zyzsdy/meamea-button.svg?style=social"/></a></div>
+                    <div class="text-right"><a href="https://github.com/zangxx66/wtm-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/zangxx66/wtm-button.svg?style=social"/></a></div>
                     <div class="text-right">{{$t("info.notOfficial")}}</div>
                 </div>
-                <div><a href="javascript:;" @click="downloadDesktopVersion">{{$t("info.desktopInfo")}}</a></div>
-                <div><a href="javascript:;" @click="showStaff">Meamea Button Production Committee</a> 2019-2020 <span style="color: rgba(0, 0, 0, 0.1)">Supported By Meowsound Idols</span></div>
+                <div>制作：角卷绵芽游记团</div>
+                <div>Supported By Meowsound Idols</div>
             </div>
         </footer>
   </div>
@@ -52,6 +53,10 @@
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
 body{
     padding-top: 70px;
+    background: url("/resources/bg.jpg") no-repeat fixed;
+}
+.navbar{
+    opacity: 0.7;
 }
 .main-content{
     min-height: 100vh;

@@ -1,14 +1,18 @@
-# Meamea button
+# WTM button
 
-Mea button [Click here to visit https://meamea.moe](https://meamea.moe)
+WTM button [Click here to visit https://watame.moe](https://watame.moe)
 
-[![Build Status](https://travis-ci.org/zyzsdy/meamea-button.svg?branch=master)](https://travis-ci.org/zyzsdy/meamea-button)
+基于Mea button制作 (https://github.com/zyzsdy/meamea-button)
+
+[![Build Status](https://travis-ci.org/zangxx66/wtm-button.svg?branch=master)](https://github.com/zangxx66/wtm-button)
 
 Related Links:
 
-* [Kagura Mea's Youtube channel](https://www.youtube.com/channel/UCWCc8tO-uUl_7SJXIKJACMw)
+* [Watame's Youtube channel](https://t.co/gE06SdvpNX?amp=1)
 
-* [Kagura Mea's Twitter](https://twitter.com/KaguraMea_VoV)
+* [Watame's Twitter](https://twitter.com/tsunomakiwatame)
+
+* [Watame's Bilibili](https://space.bilibili.com/491474050)
 
 ## 参与完善本项目
 
@@ -58,7 +62,7 @@ Related Links:
 
 程序部分： MIT
 
-音频部分按照Kagura Mea二次创作条例进行
+音频部分按照hololive二次创作条例进行
 
 ## Special Thanks
 
