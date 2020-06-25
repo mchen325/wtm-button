@@ -15,9 +15,12 @@
                 
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="https://t.co/gE06SdvpNX?amp=1" target="_blank"><img src="resources/youtube_social_icon_red.png" height="18"/></a></li>
-                        <li><a href="https://twitter.com/tsunomakiwatame" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18"/></a></li>
-                        <li><a href="https://space.bilibili.com/491474050" target="_blank"><img src="resources/bilibili_social_icon.png" height="18"></a></li>
+                        <li><a href="https://t.co/gE06SdvpNX?amp=1" target="_blank"><img src="resources/youtube_social_icon_red.png" height="18"/>&nbsp;YouTube</a></li>
+                        <li><a href="https://twitter.com/tsunomakiwatame" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18"/>&nbsp;twitter</a></li>
+                        <li><a href="https://space.bilibili.com/491474050" target="_blank"><img src="resources/bilibili_social_icon.png" height="18">&nbsp;bilibili</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="https://github.com/zangxx66/wtm-button-desktop/releases" target="_blank">下载桌面版</a></li>
                     </ul>
                     <!-- <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">

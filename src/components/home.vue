@@ -39,7 +39,8 @@
     background: url(/resources/watame.png) no-repeat fixed right;
     position: fixed;
     width: 100%;
-    height: 90%;
+    height: 100%;
+    top: 0;
     z-index: -999;
 }
 .cate-header {

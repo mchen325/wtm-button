@@ -64,8 +64,6 @@ Related Links:
 
 音频部分按照hololive二次创作条例进行
 
-## Special Thanks
+## 桌面版
 
-This project is supported by MeowSound Idols.
-
-[桌面版]
+[Click here](https://github.com/zangxx66/wtm-button-desktop/releases)
