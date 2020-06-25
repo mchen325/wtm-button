@@ -68,4 +68,4 @@ Related Links:
 
 This project is supported by MeowSound Idols.
 
-[桌面版](https://github.com/daflyinbed/meaButton)
+[桌面版]
