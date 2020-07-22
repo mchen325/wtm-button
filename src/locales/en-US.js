@@ -1,6 +1,6 @@
 const en_US = {
     info: {
-        title: "meamea button",
+        title: "watame button",
         info: "Information",
         null: "Empty",
         desktopVersion: "Download: <a href=\"https://pan.baidu.com/s/1xRnYObBCH2nW564fda1sYA\" target=\"_blank\">https://pan.baidu.com/s/1xRnYObBCH2nW564fda1sYA</a><br>Extraction code: 74qs<br><br>Another Download: <a href=\"https://drive.google.com/open?id=1Fx6vwqoML1gyWD3XYCVD8IX_bb427uK5\" target=\"_blank\">https://drive.google.com/open?id=1Fx6vwqoML1gyWD3XYCVD8IX_bb427uK5</a>",

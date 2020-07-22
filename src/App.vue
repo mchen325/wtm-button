@@ -20,9 +20,9 @@
                         <li><a href="https://space.bilibili.com/491474050" target="_blank"><img src="resources/bilibili_social_icon.png" height="18">&nbsp;bilibili</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="https://github.com/zangxx66/wtm-button-desktop/releases" target="_blank">下载桌面版</a></li>
+                        <li><a href="https://github.com/zangxx66/wtm-button-desktop/releases" target="_blank">{{ $t("info.desktopInfo") }}</a></li>
                     </ul>
-                    <!-- <ul class="nav navbar-nav navbar-right">
+                    <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
                             <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{$t("lang." + currentLang)}} <span class="caret"></span></a>
                             <ul class="dropdown-menu">
@@ -31,7 +31,7 @@
                                 <li><a href="javascript:;" @click="chlang('ja-JP')">{{$t("lang.ja-JP")}}</a></li>
                             </ul>
                         </li>
-                    </ul> -->
+                    </ul>
                 </div>
 
             </div>

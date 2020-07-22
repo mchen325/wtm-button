@@ -1,6 +1,6 @@
 const ja_JP = {
     info: {
-        title: "めあめあボタン",
+        title: "わためボタン",
         info: "通知",
         null: "空",
         desktopVersion: "ダウンロード: <a href=\"https://drive.google.com/open?id=1Fx6vwqoML1gyWD3XYCVD8IX_bb427uK5\" target=\"_blank\">https://drive.google.com/open?id=1Fx6vwqoML1gyWD3XYCVD8IX_bb427uK5</a>",
