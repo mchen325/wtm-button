@@ -1,6 +1,6 @@
 # WTM button
 
-WTM button [Click here to visit https://watame.moe](https://watame.moe)
+WTM button [Click here to visit https://www.watame.moe](https://www.watame.moe)
 
 基于Mea button制作 (https://github.com/zyzsdy/meamea-button)
 
