@@ -13,6 +13,7 @@ global.jQuery = global.$ = $;
 
 import 'bootstrap'
 import GlobalConst from './globalconst'
+import './registerServiceWorker'
 
 // import VoiceList from './voices.json'
 
